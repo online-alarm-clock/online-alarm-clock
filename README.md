@@ -21,4 +21,3 @@ The site is available in English and Chinese. Alarm and clock settings are handl
 - [Terms of Service](https://onlinealarmclock.net/terms)
 - [Blog](https://onlinealarmclock.net/blog)
 - [XML Sitemap](https://onlinealarmclock.net/sitemap.xml)
-解释
